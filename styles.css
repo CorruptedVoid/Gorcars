@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+  #logo{
+      font-family: 'Permanent Marker', cursive;
+  }
+  
+  nav {
+    font-family:"proxima-nova-soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
+    background-color: #EB984E;
+  }
+  
+  nav a{
+    color: #F0F3F4;
+    font-family: 'Open Sans', sans-serif;
+  }
+   footer {
+  	background-color: #27BCDD;
+  }
+  .footer-copyright {
+  	background-color: #FFFFFF;
+  }
+  
+  nav a:hover{
+      color:#FAE5D3;
+  }
+
+  p{
+  	font-family: 'Slabo 27px', serif;
+  }
+  
+	#jumbo{
+		background-image: url("https://images.unsplash.com/photo-1519756301029-33fef7098ba4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80");
+    object-fit:contain;
+    color:#5D5D5D
+	}
+ 
+  }
